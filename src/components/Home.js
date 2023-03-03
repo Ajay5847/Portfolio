@@ -1,6 +1,6 @@
 import React from "react";
 import TextTransition, { presets } from "react-text-transition";
-const TEXTS = ["FrontEnd Developer"];
+const TEXTS = ["FrontEnd Developer","Coding Enthusiast","Gamer"];
 
 export default function Home() {
   const [index, setIndex] = React.useState(0);
